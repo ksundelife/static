@@ -1,0 +1,50 @@
+[   
+    {
+        "productName":"MENS MARINA T-SHIRT",
+        "productPrice":52,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product1.png",
+        "productId":"prod_0"
+    },
+    {
+        "productName":"WOMENS RED BLOUSE",
+        "productPrice":53,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product2.png",
+        "productId":"prod_1"
+    },
+    {
+        "productName":"MENS BLUE JACKET",
+        "productPrice":55,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product3.png",
+        "productId":"prod_2"
+    },
+    {
+        "productName":"WOMENS BLOUSE WITH FLOWERS",
+        "productPrice":67,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product4.png",
+        "productId":"prod_3"
+    },
+    {
+        "productName":"WOMENS STRIPED BLOUSE",
+        "productPrice":69,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product5.png",
+        "productId":"prod_4"
+    },
+    {
+        "productName":"MENS CLASSIC JACKET",
+        "productPrice":94,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product6.png",
+        "productId":"prod_5"
+    },
+    {
+        "productName":"MENS BEIGE TROUSERS",
+        "productPrice":23,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product7.png",
+        "productId":"prod_6"
+    },
+    {
+        "productName":"MENS HOODIE",
+        "productPrice":45,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product8.png",
+        "productId":"prod_7"
+    }
+]
