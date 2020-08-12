@@ -1,0 +1,56 @@
+[
+    {
+        "productName":"MENS LONG JACKET",
+        "productPrice":51,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product_1.png",
+        "productId":"prod_0"
+    },
+    {
+        "productName":"MENS BROUN COAT",
+        "productPrice":57,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product_2.png",
+        "productId":"prod_1"
+    },
+    {
+        "productName":"MENS BLUE JACKET",
+        "productPrice":55,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product_3.png",
+        "productId":"prod_2"
+    },
+    {
+        "productName":"MENS BLACK T-SHIRT",
+        "productPrice":37,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product_4.png",
+        "productId":"prod_3"
+    },
+    {
+        "productName":"MENS HOODIE",
+        "productPrice":45,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product_5.png",
+        "productId":"prod_4"
+    },
+    {
+        "productName":"MENS SPORTS JACKET",
+        "productPrice":98,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product_6.png",
+        "productId":"prod_5"
+    },
+    {
+        "productName":"MENS CLASSIC JACKET",
+        "productPrice":94,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product_7.png",
+        "productId":"prod_6"
+    },
+    {
+        "productName":"MENS INSULATED JACKET",
+        "productPrice":99,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product_8.png",
+        "productId":"prod_7"
+    },
+    {
+        "productName":"MENS BLUE T-SHIRT",
+        "productPrice":37,
+        "productImg":"https://raw.githubusercontent.com/ksundelife/static/master/img/js_shop_contents/product_9.png",
+        "productId":"prod_8"
+    }
+]
