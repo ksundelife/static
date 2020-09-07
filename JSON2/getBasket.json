@@ -1,0 +1,30 @@
+{
+    "amount": 79360,
+    "countGoods": 4,
+    "contents": [
+        {
+            "id":1,
+            "title":"Ноутбук Apple MacBook Air 13.3\" (MQD32RU/A)",
+            "price":66990,
+            "quantity": 1
+        },
+        {
+            "id":2,
+            "title":"Мышь HP Z3700 Black (V0L79AA)",
+            "price":890,
+            "quantity": 1
+        },
+        {
+            "id":3,
+            "title":"Клавиатура Apple Magic Keyboard (MLA22RU/A)",
+            "price":8490,
+            "quantity": 1
+        },
+        {
+            "id":4,
+            "title":"Геймпад Logitech Wireless Gamepad F710",
+            "price":2990,
+            "quantity": 1
+        }
+    ]
+}
